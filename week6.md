@@ -1,7 +1,5 @@
 📘 Week 6 – Performance Evaluation and Analysis
 
-⬅ Home
- | Week 7 ➡
 
 1. Overview
 
