@@ -37,7 +37,8 @@ Automatic security updates
 
 Least-privilege user management
 
-Network service minimisation <img width="1931" height="1994" alt="Screenshot 2025-12-25 064830" src="https://github.com/user-attachments/assets/fb58f21d-8735-4819-a3fe-cdb2e84cccc4" />
+Network service minimisation <img width="2296" height="2009" alt="Screenshot 2025-12-25 091752" src="https://github.com/user-attachments/assets/60d23f12-8447-4a9c-a744-ca15bff995a8" />
+
 
 
 4. Threat Model
